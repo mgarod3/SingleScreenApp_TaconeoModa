@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">www.taconeomoda.com</string>
+    <string name="content_image">Tienda Taconeo Moda</string>
+    <string name="content_image_logo">Logo de Taconeo Moda</string>
+    <string name="taconeo_description">Calzado y accesorios de moda y calidad</string>
+    <string name="taconeo_address">Ramón González, 6, 36400,\nO Porriño (Pontevedra)</string>
+    <string name="taconeo_phone">+34 886 13 17 89</string>
+    <string name="taconeo_mail"><a href="mailto:info@taconeomoda.com" target="_top">info@taconeomoda.com</a></string>
+    <string name="taconeo_hours">Abierto Lun. a Sáb.\n09:45 &#8211; 14:00\n16:30 &#8211; 20:45</string>
+    <string name="taconeo_web"><a href="http://www.taconeomoda.com" target="_top">www.taconeomoda.com</a></string>
+</resources>
