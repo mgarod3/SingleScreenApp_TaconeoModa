@@ -6,6 +6,6 @@
     <dimen name="activity_top_margin">50dp</dimen>
     <dimen name="padding_top">8dp</dimen>
     <!-- Text sizes. -->
-    <dimen name="taconeo_description">22sp</dimen>
-    <dimen name="taconeo_info">18sp</dimen>
+    <dimen name="taconeo_description">24sp</dimen>
+    <dimen name="taconeo_info">20sp</dimen>
 </resources>

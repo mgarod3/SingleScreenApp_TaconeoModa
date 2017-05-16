@@ -12,15 +12,14 @@
     <!-- Style for ImageView. -->
     <style name="TaconeoStore" parent="AppTheme">
         <item name="android:layout_width">match_parent</item>
-        <item name="android:layout_height">0dp</item>
-        <item name="android:layout_weight">0.70</item>
-        <item name="android:scaleType">centerCrop</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:scaleType">fitXY</item>
     </style>
 
     <!-- Common style for company logo and description. -->
     <style name="SubCabecera" parent="AppTheme">
+        <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">wrap_content</item>
-        <item name="android:layout_weight">0</item>
         <item name="android:gravity">center_horizontal</item>
         <item name="android:layout_gravity">center_horizontal</item>
         <item name="android:paddingTop">@dimen/padding_top</item>
@@ -44,8 +43,7 @@
     <!-- Style for contact info view group (LinearLayout). -->
     <style name="LinearLayout2" parent="AppTheme">
         <item name="android:layout_width">wrap_content</item>
-        <item name="android:layout_height">0dp</item>
-        <item name="android:layout_weight">1.5</item>
+        <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_marginTop">@dimen/activity_top_margin</item>
         <item name="android:orientation">vertical</item>
         <item name="android:layout_gravity">center_horizontal</item>
